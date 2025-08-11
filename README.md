@@ -1,2 +1,2 @@
 # nutrigrove_app
-frontend of nutrigrove
+App developed by Vraj & Travis
